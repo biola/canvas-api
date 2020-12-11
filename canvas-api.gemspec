@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{canvas-api}
-  s.version = "1.1.1"
+  s.version = "1.2"
 
   s.add_dependency 'json'
   s.add_dependency 'typhoeus'
